@@ -1,14 +1,14 @@
 {
-  "name": "workflowtest",
+  "name": "workflowtest2",
   "description": "hello world test app",
-  "subdomain": "dev-workflowtest",
-  "version": "0.0.1-1",
+  "subdomain": "dev-workflowtest2",
+  "version": "0.0.1-5",
   "private": true,
   "dependencies": {
     "express": "3.x"
   },
   "scripts": {
-    "start": "node app"
+    "start": "node app.js"
   },
   "engines": {
     "node": "0.8.x"
