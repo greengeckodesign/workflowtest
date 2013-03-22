@@ -11,3 +11,4 @@
 {"ts":1363976651775,"patch":[[{"diffs":[[0,"lo W"],[-1,"o"],[1,"e"],[0,"rld"],[1,"."],[0,"');\n"]],"start1":126,"start2":126,"length1":12,"length2":13}]],"length":225,"saved":false}
 {"ts":1363976751726,"patch":[[{"diffs":[[0,"o Werld."],[1,".."],[0,"');\n});\n"]],"start1":127,"start2":127,"length1":16,"length2":18}]],"length":227,"saved":false}
 {"ts":1363977120236,"patch":[[{"diffs":[[0,"Werld..."],[1,"!"],[0,"');\n});\n"]],"start1":129,"start2":129,"length1":16,"length2":17}]],"length":228,"saved":false}
+{"ts":1363977331525,"patch":[[{"diffs":[[0,"erld...!"],[1,"!"],[0,"');\n});\n"]],"start1":130,"start2":130,"length1":16,"length2":17}]],"length":229,"saved":false}
